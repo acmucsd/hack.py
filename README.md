@@ -1,10 +1,5 @@
-# Hack.py Workshop Code
+# hack.py
 
-Starter code for Hack.py - ACM's Python Programming Workshop
+Welcome to *hack.py*, a 6 part workshop series where we teach you as much as we can about Python, from the basics of the language to its applications in real life. 
 
-### Setup
 
-To check out a specific workshop's code, first clone the repository and visit the specific workshop directory.
-
-1. `git clone https://github.com/acmucsd/hack.py.git`
-2. `cd <Workshop Folder>`
