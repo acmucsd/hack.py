@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?q={{ datetime.now() }}">
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+{% block body %}{% endblock %}
+{% block form %}{% endblock %}
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block body %}
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  {% for item in todolist %}
+    <tr>
+      <td>{{item.item}}</td>
+      <td>{{item.type}}</td>
+      <td>{{item.description}}</td>
+    </tr>
+  {% endfor %}
+</table>
+
+{% endblock%}
+
+{% block form %}
+<form method="POST" action="/">
+  {{ form.csrf_token }}
+  {{ form.item.label }} {{ form.item() }}
+  {{ form.type.label }} {{ form.type() }}
+  {{ form.description.label }} {{ form.description()}}
+  {{ form.submit }}
+</form>
+<form method="POST" action="/">
+  {{ deleteForm.submit}}
+</form>
+{% endblock%}

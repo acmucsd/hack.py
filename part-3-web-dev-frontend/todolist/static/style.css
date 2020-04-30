@@ -1,0 +1,12 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+
+table {
+  border-style: dashed;
+}
+
+td {
+  border-style: solid;
+}
