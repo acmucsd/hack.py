@@ -18,3 +18,4 @@ This curriculum was developed by an awesome team of people including:
   - [Arsen Ohanyan](https://github.com/4R53N)
   - [Michael Shao](https://github.com/michl1001)
   - [Dennis Juanito](https://github.com/djuanit0x)
+  - Faris Ashai
