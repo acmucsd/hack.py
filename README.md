@@ -8,3 +8,13 @@ Part 3: Web Development w/ Flask I - [Slides](http://acmurl.com/hackpy3) - [repl
 Part 4: Web Development w/ Flask II - [Slides] - [repl.it] - COMING SOON (May 7th, 2020)  
 Part 5: Web Scraping - [Slides] - [repl.it] - COMING SOON (May 14th, 2020)  
 Part 6: Data Visualization - [Slides] - [repl.it] - COMING SOON (May 21st, 2020)  
+
+This curriculum was developed by an awesome team of people including:
+  - [Daniel Truong](https://github.com/daniel-d-truong)
+  - [Maggie Mao](https://github.com/YiyueMaggieMao)
+  - [Shravan Hariharan](https://github.com/shravanhariharan2)
+  - [Henry Chan](https://github.com/chanhenry54)
+  - [Paul Pan](https://github.com/paulpan05)
+  - [Arsen Ohanyan](https://github.com/4R53N)
+  - [Michael Shao](https://github.com/michl1001)
+  - [Dennis Juanito](https://github.com/djuanit0x)
