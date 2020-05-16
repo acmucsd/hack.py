@@ -6,7 +6,7 @@ Part 1: Introduction to Python I - [Slides](http://acmurl.com/hackpy1) - [repl.i
 Part 2: Introduction to Python II - [Slides](https://docs.google.com/presentation/d/1pdL_gVBtCBsIL5tA66lprdBvPxRim-Nsbxw-97aSAY4/edit?usp=sharing) - [repl.it](https://acmurl.com/hackpy2-repl)  
 Part 3: Web Development w/ Flask I - [Slides](http://acmurl.com/hackpy3) - [repl.it](https://repl.it/github/paulpan05/Flask-Workshop-1)  
 Part 4: Web Development w/ Flask II - [Slides](http://acmurl.com/hackpy4) - [repl.it](https://repl.it/github/paulpan05/Flask-Workshop-2)  
-Part 5: Web Scraping - [Slides](http://acmurl.com/hackpy5) - [repl.it](https://acmurl.com/hackpy5-repl)
+Part 5: Web Scraping - [Slides](http://acmurl.com/hackpy5) - [repl.it](https://acmurl.com/hackpy5-repl)  
 Part 6: Data Visualization - [Slides] - [repl.it] - COMING SOON (May 21st, 2020)  
 
 This curriculum was developed by an awesome team of people including:
